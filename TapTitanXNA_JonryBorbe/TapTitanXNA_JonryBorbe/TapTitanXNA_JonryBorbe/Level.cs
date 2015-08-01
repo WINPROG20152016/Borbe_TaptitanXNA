@@ -14,7 +14,7 @@ namespace TapTitanXNA_JonryBorbe
     {
         public static int windowWidth = 480;//400;
         public static int windowHeight = 800;//500;
-
+        
         public int randomEnemy = 0;
 
         ContentManager content;
@@ -54,7 +54,7 @@ namespace TapTitanXNA_JonryBorbe
         int btn2 = 0;
 
        // List<Hero> heroes = new List<Hero>();
-
+        Random rand = new Random();
         //int heroVar; 
 
         public Level(ContentManager content)
@@ -190,8 +190,14 @@ namespace TapTitanXNA_JonryBorbe
                     hero3.player = content.Load<Texture2D>("Enemies/enemy1Died");
                     hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5);
                 }
+                else if (randomEnemy == 1)
+                {
+                    hero3.player = content.Load<Texture2D>("Enemies/enemy2Died");
+                    hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5);
+                }
                 //hero3.positionX = (Level.windowWidth / 2) - ((hero3.player.Width / 5) / 2) - 25;
                // hero3.positionY = (Level.windowHeight / 2) - (hero3.player.Height / 2) - 5;
+                randomEnemy = rand.Next(2);
             }
 
             spriteBatch.DrawString(enemyHP, minHP + "/" + maxHP, new Vector2(350, 270), Color.White);

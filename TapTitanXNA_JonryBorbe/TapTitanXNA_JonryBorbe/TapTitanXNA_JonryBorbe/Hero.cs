@@ -111,13 +111,11 @@ namespace TapTitanXNA_JonryBorbe
             }
             else if (this.recycle == 3)
             {
-                if(level.randomEnemy == 0)
-                {
-                    player = content.Load<Texture2D>("Enemies/enemy1");
-                    idleAnimation = new Animation(player, 0.1f, true, 3);
-                    positionX = (Level.windowWidth / 2) - ((player.Width / 3) / 2) + 125;
-                    positionY = (Level.windowHeight / 2) - (player.Height / 2) - 50;
-                }
+                if (level.randomEnemy == 0) { player = content.Load<Texture2D>("Enemies/enemy1"); }
+                else if (level.randomEnemy == 1) { player = content.Load<Texture2D>("Enemies/enemy2"); }
+                idleAnimation = new Animation(player, 0.1f, true, 3);
+                positionX = (Level.windowWidth / 2) - ((player.Width / 3) / 2) + 125;
+                positionY = (Level.windowHeight / 2) - (player.Height / 2) - 50;
             }
             else if (this.recycle == 4)
             {
@@ -218,12 +216,9 @@ namespace TapTitanXNA_JonryBorbe
             {
                 if ((spritePlayer.Animation.isLooping == false) && (spritePlayer.rRecy == 4))
                 {
-                    if(level.randomEnemy == 0)
-                    {
-                        player = content.Load<Texture2D>("Enemies/enemy1");
-                        idleAnimation = new Animation(player, 0.1f, true, 3);
-                    }
-                    
+                    if (level.randomEnemy == 0) { player = content.Load<Texture2D>("Enemies/enemy1"); }
+                    else if (level.randomEnemy == 1) { player = content.Load<Texture2D>("Enemies/enemy2"); }
+                    idleAnimation = new Animation(player, 0.1f, true, 3);
                     //positionX = (Level.windowWidth / 2) - ((player.Width / 3) / 2) - 25;
                     //positionY = (Level.windowHeight / 2) - (player.Height / 2) - 5;
                     

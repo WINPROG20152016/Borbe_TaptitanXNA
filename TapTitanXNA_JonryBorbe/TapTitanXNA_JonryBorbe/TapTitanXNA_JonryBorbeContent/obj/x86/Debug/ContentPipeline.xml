@@ -179,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2.xnb</Output>
-      <Time>2015-08-01T10:30:04.9454648+08:00</Time>
+      <Time>2015-08-01T10:48:12.4652059+08:00</Time>
     </Item>
     <Item>
       <Source>Enemies\enemy2Died.png</Source>
@@ -188,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2Died.xnb</Output>
-      <Time>2015-08-01T10:30:31.9571657+08:00</Time>
+      <Time>2015-08-01T10:48:51.4381028+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
