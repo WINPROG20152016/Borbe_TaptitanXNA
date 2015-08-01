@@ -1,0 +1,4 @@
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbeContent\obj\x86\Debug\TapTitanXNA_JonryBorbeContent.contentprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbeContent\obj\x86\Debug\TapTitanXNA_JonryBorbeContent.contentprojResolveAssemblyReference.cache
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbeContent\obj\x86\Debug\TapTitanXNA_JonryBorbeContent.contentprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbeContent\obj\x86\Debug\TapTitanXNA_JonryBorbeContent.contentprojResolveAssemblyReference.cache

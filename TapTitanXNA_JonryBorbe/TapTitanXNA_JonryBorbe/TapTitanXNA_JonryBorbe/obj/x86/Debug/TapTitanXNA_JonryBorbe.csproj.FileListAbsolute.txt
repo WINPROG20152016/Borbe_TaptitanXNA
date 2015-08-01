@@ -1,0 +1,97 @@
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonPlay.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\atkEffect.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\evaAtk.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\sayoAtk.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\player01.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\player02.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\player03.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set1.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set2.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support1.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support2.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonPlay.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\atkEffect.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\evaAtk.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\sayoAtk.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\1 3D\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set1.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set2.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support1.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support2.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonPlay.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\atkEffect.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\evaAtk.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\sayoAtk.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.exe
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.csprojResolveAssemblyReference.cache
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.exe
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemyDied.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background2.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonBored.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonTired.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemyDied.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonBored.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonTired.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsEvaUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSayoUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSetUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsClickUpgrade.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsEvaUpgrade.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSayoUpgrade.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSetUpgrade.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsClickUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\set2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support1.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\support2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonPlay.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\atkEffect.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\evaAtk.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\HeroSprites\sayoAtk.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonBored.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonTired.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsEvaUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSayoUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsSetUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\btnsClickUpgrade.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.exe
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.pdb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1Died.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2Died.xnb
