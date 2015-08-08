@@ -16,6 +16,7 @@ namespace TapTitanXNA_JonryBorbe
         public static int windowHeight = 800;//500;
         
         public int randomEnemy = 0;
+        int sameR = 0;
 
         ContentManager content;
         Texture2D bg1;
@@ -185,19 +186,19 @@ namespace TapTitanXNA_JonryBorbe
             if (minHP <= 0) 
             {
                 maxHP++; minHP = maxHP;
-                if (randomEnemy == 0)
-                {
-                    hero3.player = content.Load<Texture2D>("Enemies/enemy1Died");
-                    hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5);
-                }
-                else if (randomEnemy == 1)
-                {
-                    hero3.player = content.Load<Texture2D>("Enemies/enemy2Died");
-                    hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5);
-                }
+                if (randomEnemy == 0) { hero3.player = content.Load<Texture2D>("Enemies/enemy1Died"); hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5); }
+                else if (randomEnemy == 1) { hero3.player = content.Load<Texture2D>("Enemies/enemy2Died"); hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5); }
+                else if (randomEnemy == 2) { hero3.player = content.Load<Texture2D>("Enemies/enemy3Died"); hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5); }
+                else if (randomEnemy == 3) { hero3.player = content.Load<Texture2D>("Enemies/enemy4Died"); hero3.idleAnimation = new Animation(hero3.player, 0.1f, false, 5); }
                 //hero3.positionX = (Level.windowWidth / 2) - ((hero3.player.Width / 5) / 2) - 25;
                // hero3.positionY = (Level.windowHeight / 2) - (hero3.player.Height / 2) - 5;
-                randomEnemy = rand.Next(2);
+                do
+                {
+                    randomEnemy = rand.Next(4);
+                    
+                } while (sameR == randomEnemy);
+                sameR = randomEnemy;
+                
             }
 
             spriteBatch.DrawString(enemyHP, minHP + "/" + maxHP, new Vector2(350, 270), Color.White);

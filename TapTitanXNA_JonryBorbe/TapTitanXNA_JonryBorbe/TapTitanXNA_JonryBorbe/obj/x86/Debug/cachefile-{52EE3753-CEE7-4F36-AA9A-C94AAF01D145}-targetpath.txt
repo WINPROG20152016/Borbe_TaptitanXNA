@@ -8,6 +8,7 @@ Content\Buttons\buttonPlay.xnb
 Content\HeroSprites\atkEffect.xnb
 Content\HeroSprites\evaAtk.xnb
 Content\HeroSprites\sayoAtk.xnb
+Content\Enemies\enemy1Died.xnb
 Content\Backgrounds\background2.xnb
 Content\Buttons\buttonBored.xnb
 Content\Buttons\buttonTired.xnb
@@ -15,7 +16,10 @@ Content\Buttons\btnsEvaUpgrade.xnb
 Content\Buttons\btnsSayoUpgrade.xnb
 Content\Buttons\btnsSetUpgrade.xnb
 Content\Buttons\btnsClickUpgrade.xnb
-Content\Font.xnb
-Content\Enemies\enemy1Died.xnb
 Content\Enemies\enemy2.xnb
 Content\Enemies\enemy2Died.xnb
+Content\Enemies\enemy3.xnb
+Content\Enemies\enemy3Died.xnb
+Content\Enemies\enemy4.xnb
+Content\Enemies\enemy4Died.xnb
+Content\Font.xnb

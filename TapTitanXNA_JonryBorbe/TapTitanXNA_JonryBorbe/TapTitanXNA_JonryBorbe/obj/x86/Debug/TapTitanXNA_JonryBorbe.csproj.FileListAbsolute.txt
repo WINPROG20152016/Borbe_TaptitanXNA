@@ -52,7 +52,6 @@ D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXN
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.exe
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\obj\x86\Debug\TapTitanXNA_JonryBorbe.pdb
-D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemyDied.xnb
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Backgrounds\background2.xnb
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonBored.xnb
 D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Buttons\buttonTired.xnb
@@ -95,3 +94,14 @@ C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_J
 C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1Died.xnb
 C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2.xnb
 C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2Died.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1Died.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2Died.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3Died.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4.xnb
+D:\Demon God Setry\Schools\[School] 6 - iAcademy\WindowsProg\setryXNA\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4Died.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3Died.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4.xnb
+C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4Died.xnb

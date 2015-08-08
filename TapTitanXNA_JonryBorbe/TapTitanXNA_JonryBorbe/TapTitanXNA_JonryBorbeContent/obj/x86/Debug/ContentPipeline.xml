@@ -92,6 +92,15 @@
       <Time>2015-07-25T23:55:06+08:00</Time>
     </Item>
     <Item>
+      <Source>Enemies\enemy1Died.png</Source>
+      <Name>Enemies\enemy1Died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1Died.xnb</Output>
+      <Time>2015-07-26T00:10:12+08:00</Time>
+    </Item>
+    <Item>
       <Source>Backgrounds\background2.png</Source>
       <Name>Backgrounds\background2</Name>
       <Importer>TextureImporter</Importer>
@@ -155,31 +164,13 @@
       <Time>2015-07-26T11:58:20+08:00</Time>
     </Item>
     <Item>
-      <Source>Font.spritefont</Source>
-      <Name>Font</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2015-07-18T08:26:22+08:00</Time>
-    </Item>
-    <Item>
-      <Source>Enemies\enemy1Died.png</Source>
-      <Name>Enemies\enemy1Died</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy1Died.xnb</Output>
-      <Time>2015-07-26T00:10:12+08:00</Time>
-    </Item>
-    <Item>
       <Source>Enemies\enemy2.png</Source>
       <Name>Enemies\enemy2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2.xnb</Output>
-      <Time>2015-08-01T10:48:12.4652059+08:00</Time>
+      <Time>2015-08-01T10:48:14+08:00</Time>
     </Item>
     <Item>
       <Source>Enemies\enemy2Died.png</Source>
@@ -188,7 +179,52 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy2Died.xnb</Output>
-      <Time>2015-08-01T10:48:51.4381028+08:00</Time>
+      <Time>2015-08-01T10:48:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\enemy3.png</Source>
+      <Name>Enemies\enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3.xnb</Output>
+      <Time>2015-08-01T11:00:16+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\enemy3Died.png</Source>
+      <Name>Enemies\enemy3Died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy3Died.xnb</Output>
+      <Time>2015-08-01T11:00:08+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\enemy4.png</Source>
+      <Name>Enemies\enemy4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4.xnb</Output>
+      <Time>2015-08-01T10:59:58+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\enemy4Died.png</Source>
+      <Name>Enemies\enemy4Died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Enemies\enemy4Died.xnb</Output>
+      <Time>2015-08-01T11:00:28+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Desktop\s1\setryXNA\final\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\TapTitanXNA_JonryBorbe\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-07-18T08:26:22+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
