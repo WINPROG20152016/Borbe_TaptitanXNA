@@ -339,17 +339,17 @@ namespace TapTitanXNA_JonryBorbe
             if ((this.recycle == 0) && (this.printFont == 1))
             {
                 s1-=3;
-                spriteBatch.DrawString(fontplayerDamage1, "-" + actualplayerDamage1 + " HP", new Vector2(350, s1 + 100), Color.Red);
+                spriteBatch.DrawString(fontplayerDamage1, "-" + actualplayerDamage1 + " HP", new Vector2(350, s1 + 100), Color.Purple);
             }
             if ((this.recycle == 1) && (this.printFont == 1))
             {
                 s1 -= 5;
-                spriteBatch.DrawString(damageStringFont, "-" + sayoDamage + " HP", new Vector2(320, s1 + 100), Color.Red);
+                spriteBatch.DrawString(damageStringFont, "-" + sayoDamage + " HP", new Vector2(320, s1 + 100), Color.Violet);
             }
             if ((this.recycle == 2) && (this.printFont == 1))
             {
                 s1 -= 4;
-                spriteBatch.DrawString(damageStringFont, "-" + evaDamage + " HP", new Vector2(300, s1 + 100), Color.Red);
+                spriteBatch.DrawString(damageStringFont, "-" + evaDamage + " HP", new Vector2(300, s1 + 100), Color.Turquoise);
             }
         }
     }
